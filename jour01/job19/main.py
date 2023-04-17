@@ -7,7 +7,7 @@ def draw_rectangle(width, height):
             else:
                 print(" ", end = '')
         print("|") 
-draw_rectangle(10,9)
+draw_rectangle(8,4)
    
 
   
